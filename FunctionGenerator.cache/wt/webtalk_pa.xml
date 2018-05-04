@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<document>
+<!--The data in this file is primarily intended for consumption by Xilinx tools.
+The structure and the elements are likely to change over the next few releases.
+This means code written to parse this file will need to be revisited each subsequent release.-->
+<application name="pa" timeStamp="Sat May 20 23:34:48 2017">
+<section name="Project Information" visible="false">
+<property name="ProjectID" value="f6e26225293841af870bfb0087d65d5c" type="ProjectID"/>
+<property name="ProjectIteration" value="1" type="ProjectIteration"/>
+</section>
+<section name="PlanAhead Usage" visible="true">
+<item name="Project Data">
+<property name="SrcSetCount" value="1" type="SrcSetCount"/>
+<property name="ConstraintSetCount" value="1" type="ConstraintSetCount"/>
+<property name="DesignMode" value="RTL" type="DesignMode"/>
+<property name="SynthesisStrategy" value="Vivado Synthesis Defaults" type="SynthesisStrategy"/>
+<property name="ImplStrategy" value="Vivado Implementation Defaults" type="ImplStrategy"/>
+</item>
+<item name="Java Command Handlers">
+<property name="AddSources" value="3" type="JavaHandler"/>
+<property name="CoreView" value="3" type="JavaHandler"/>
+<property name="CustomizeCore" value="4" type="JavaHandler"/>
+<property name="EditDelete" value="4" type="JavaHandler"/>
+<property name="NewProject" value="1" type="JavaHandler"/>
+<property name="OpenProject" value="1" type="JavaHandler"/>
+<property name="ProjectSettingsCmdHandler" value="1" type="JavaHandler"/>
+<property name="RecustomizeCore" value="5" type="JavaHandler"/>
+<property name="ShowSimulationDefaultWaveFormView" value="1" type="JavaHandler"/>
+<property name="ShowView" value="1" type="JavaHandler"/>
+<property name="SimulationClose" value="9" type="JavaHandler"/>
+<property name="SimulationRun" value="13" type="JavaHandler"/>
+<property name="SimulationRunForTime" value="6" type="JavaHandler"/>
+</item>
+<item name="Gui Resources Info">
+<property name="FunctionGenerator_tb.v, 112, 237" value="1" type="GuiResourceData"/>
+<property name="FunctionGenerator_tb.v, 131, 387" value="1" type="GuiResourceData"/>
+<property name="FunctionGenerator_tb.v, 131, 388" value="1" type="GuiResourceData"/>
+<property name="FunctionGenerator_tb.v, 135, 368" value="1" type="GuiResourceData"/>
+<property name="FunctionGenerator_tb.v, 142, 289" value="1" type="GuiResourceData"/>
+<property name="FunctionGenerator_tb.v, 151, 387" value="1" type="GuiResourceData"/>
+<property name="FunctionGenerator_tb.v, 164, 387" value="1" type="GuiResourceData"/>
+<property name="FunctionGenerator_tb.v, 168, 111" value="1" type="GuiResourceData"/>
+<property name="FunctionGenerator_tb.v, 179, 194" value="1" type="GuiResourceData"/>
+<property name="FunctionGenerator_tb.v, 180, 386" value="1" type="GuiResourceData"/>
+<property name="FunctionGenerator_tb.v, 203, 322" value="1" type="GuiResourceData"/>
+<property name="FunctionGenerator_tb.v, 204, 202" value="1" type="GuiResourceData"/>
+<property name="FunctionGenerator_tb.v, 210, 73" value="1" type="GuiResourceData"/>
+<property name="FunctionGenerator_tb.v, 211, 311" value="1" type="GuiResourceData"/>
+<property name="FunctionGenerator_tb.v, 213, 201" value="1" type="GuiResourceData"/>
+<property name="FunctionGenerator_tb.v, 215, 287" value="1" type="GuiResourceData"/>
+<property name="FunctionGenerator_tb.v, 231, 263" value="1" type="GuiResourceData"/>
+<property name="FunctionGenerator_tb.v, 238, 206" value="1" type="GuiResourceData"/>
+<property name="FunctionGenerator_tb.v, 241, 134" value="1" type="GuiResourceData"/>
+<property name="FunctionGenerator_tb.v, 247, 190" value="1" type="GuiResourceData"/>
+<property name="FunctionGenerator_tb.v, 253, 369" value="1" type="GuiResourceData"/>
+<property name="FunctionGenerator_tb.v, 329, 182" value="1" type="GuiResourceData"/>
+<property name="FunctionGenerator_tb.v, 41, 80" value="1" type="GuiResourceData"/>
+<property name="FunctionGenerator_tb.v, 434, 256" value="1" type="GuiResourceData"/>
+<property name="FunctionGenerator_tb.v, 44, 120" value="1" type="GuiResourceData"/>
+<property name="PAResourceCommand.PACommandNames_SIMULATION_LIVE_RUN, simulation_live_run_for_time" value="1" type="GuiResourceData"/>
+<property name="PAResourceCommand.PACommandNames_SIMULATION_RUN_BEHAVIORAL, Run Behavioral Simulation" value="1" type="GuiResourceData"/>
+<property name="PAResourceEtoH.FileSetPanel_FILE_SET_PANEL_TREE, [root, Simulation Sources, sim_1, FunctionGenerator_tb (FunctionGenerator_tb.v" value="4" type="GuiResourceData"/>
+<property name="PAResourceEtoH.FlowNavigatorTreePanel_FLOW_NAVIGATOR_TREE, [, Simulation, Run Simulation], 11, false" value="1" type="GuiResourceData"/>
+<property name="PAResourceQtoS.StateMonitor_CANCEL, Cancel" value="1" type="GuiResourceData"/>
+<property name="RDIResource.BaseDialog_OK, OK" value="1" type="GuiResourceData"/>
+<property name="RDIResource.GraphicalView_ZOOM_FIT, Waveform Viewer_zoom_fit" value="1" type="GuiResourceData"/>
+<property name="RDIResource.GraphicalView_ZOOM_IN, Waveform Viewer_zoom_in" value="6" type="GuiResourceData"/>
+<property name="RDIResource.GraphicalView_ZOOM_OUT, Waveform Viewer_zoom_out" value="1" type="GuiResourceData"/>
+<property name="RDIResource.RDIViews_WAVEFORM_VIEWER, 73, 199" value="1" type="GuiResourceData"/>
+<property name="RDIResource.WaveformNameTree_WAVEFORM_NAME_TREE, [true, douta[7:0]], 3, true" value="1" type="GuiResourceData"/>
+<property name="RDIResource.WaveformNameTree_WAVEFORM_NAME_TREE, [true, douta[7:0]], 3, true, false, false, false, true, false" value="1" type="GuiResourceData"/>
+<property name="RDIResource.WaveformView_GOTO_TIME_0, Waveform Viewer_waveformGotoTime0" value="1" type="GuiResourceData"/>
+<property name="RDIResourceCommand.RDICommands_SAVE_FILE, (String" value="2" type="GuiResourceData"/>
+</item>
+<item name="Other">
+<property name="GuiMode" value="42" type="GuiMode"/>
+<property name="BatchMode" value="0" type="BatchMode"/>
+<property name="TclMode" value="34" type="TclMode"/>
+</item>
+</section>
+</application>
+</document>

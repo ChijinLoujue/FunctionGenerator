@@ -1,0 +1,20 @@
+Vivado Simulator 2016.2
+Copyright 1986-1999, 2001-2016 Xilinx, Inc. All Rights Reserved.
+Running: D:/WorkSoftware/Xilinx/Vivado/2016.2/bin/unwrapped/win64.o/xelab.exe -wto 1016ab3c1edf48d09306c6c4cab53300 --debug typical --relax --mt 2 -L xil_defaultlib -L xpm -L blk_mem_gen_v8_3_3 -L unisims_ver -L unimacro_ver -L secureip --snapshot FunctionGenerator_tb_behav xil_defaultlib.FunctionGenerator_tb xil_defaultlib.glbl -log elaborate.log 
+Using 2 slave threads.
+Starting static elaboration
+WARNING: [VRFC 10-1783] select index 30 into current_contents is out of bounds [D:/Study/FPGA/FunctionGenerator/FunctionGenerator.ip_user_files/ipstatic/blk_mem_gen_v8_3_3/simulation/blk_mem_gen_v8_3.v:2414]
+WARNING: [VRFC 10-1783] select index 62 into current_contents is out of bounds [D:/Study/FPGA/FunctionGenerator/FunctionGenerator.ip_user_files/ipstatic/blk_mem_gen_v8_3_3/simulation/blk_mem_gen_v8_3.v:2415]
+Completed static elaboration
+Starting simulation data flow analysis
+Completed simulation data flow analysis
+Time Resolution for simulation is 1ps
+Compiling module blk_mem_gen_v8_3_3.blk_mem_gen_v8_3_3_output_stage(...
+Compiling module blk_mem_gen_v8_3_3.blk_mem_gen_v8_3_3_output_stage(...
+Compiling module blk_mem_gen_v8_3_3.blk_mem_gen_v8_3_3_softecc_outpu...
+Compiling module blk_mem_gen_v8_3_3.blk_mem_gen_v8_3_3_mem_module(C_...
+Compiling module blk_mem_gen_v8_3_3.blk_mem_gen_v8_3_3(C_FAMILY="art...
+Compiling module xil_defaultlib.blk_mem_gen_sin
+Compiling module xil_defaultlib.FunctionGenerator_tb
+Compiling module xil_defaultlib.glbl
+Built simulation snapshot FunctionGenerator_tb_behav
