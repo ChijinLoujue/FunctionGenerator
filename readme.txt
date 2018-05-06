@@ -1,1 +1,1 @@
-这是一个频率发生器，大三的FPGA实验
+This is a frequency generator, made in the third grade in college.
